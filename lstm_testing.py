@@ -29,7 +29,7 @@ from sklearn.model_selection import KFold
 from keras.callbacks import EarlyStopping
 
 # CryptoCompare API key
-api_key = '52c972a27d45c04b20c41340e0ee2d68b4b8a88b3c1dfa1675eab62fa90965b2'
+api_key = ''
 
 # Function definitions remain the same
 # (fetch_current_price, fetch_current_trading_info, fetch_historical_crypto_data, add_indicators)
